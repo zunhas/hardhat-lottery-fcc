@@ -1,0 +1,17 @@
+#vscode
+.vscode
+
+#hardhat
+artifacts
+cache
+deployments
+node_modules
+coverage
+typechain-types
+
+#reports
+gas-report.txt
+coverage.json
+
+#variables
+.env
